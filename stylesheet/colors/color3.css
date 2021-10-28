@@ -1,0 +1,185 @@
+/**
+  * Color
+  * Border Color
+  * Background Color  
+*/
+
+/* Color
+-------------------------------------------------------------- */
+.flat-infomation li a:hover,
+a:hover,
+a:focus,
+.imagebox.style5 .imagebox-content > a,
+.about-company.style1 h1 span,
+.portfolio-item.style2 .portfolio-content ul.menu-portfolio li a,
+.widget-services .one-half li a:hover,
+.portfolio-item .portfolio-content h5 a:hover,
+#slider .flex-direction-nav a:before,
+.header.style1 .flat-show-search .show-search i,
+.footer-bottom .copyright a,
+.tp-caption.flat-button-slider.bg-white,
+#mainnav .menu > li > .sub-menu > li.active > a, #mainnav .menu > li > .sub-menu > li > a:hover,
+#mainnav .menu > li > .sub-menu > li > a:before,
+.iconbox.style5 .iconbox-content .btn-more a,
+.accordion .accordion-toggle .toggle-title.active,
+.iconbox.style2.v1 .iconbox-icon,
+.top.style2 ul.flat-social li a:hover,
+.text-tabs.style1 .text-content .text-list ul li:before,
+.switcher-container h2 a.active:after,
+.iconbox .iconbox-icon span,
+.switcher-container h2 i,
+#mainnav .menu > li.active > a, #mainnav .menu > li > a:hover,
+.imagebox.style4 .imagebox-content a:hover,
+ul.filter-wrap li.btn-active, ul.filter-wrap li:hover,
+.page-title .breadcrumbs li a,
+.widget-nav-tab ul li.active, .widget-nav-tab ul li:hover,
+.content-inner .we-about ul li span,
+.flat-list-year li .year,
+.content-inner.history .row-inner .one-half .text-about ul li span,
+.partner-item .partner-content .btn-visit a,
+.accordion.style1 .accordion-toggle .toggle-title.active,
+.widget-map ul li:before,
+.widget-categories ul li a:hover, .widget-categories ul li.active a,
+article.main-post.style1 .entry-title ul li i,
+.comment-list li.comment article.comment-body .comment-text .comment-metadata .date span.reply a,
+.table-pricing table tbody tr td:nth-child(4),
+.table-pricing.style1 table tbody tr.platinum .title,
+.table-pricing.style1 table tbody tr.platinum td {
+  color: #f87b27;
+}
+
+
+/* Border Color
+-------------------------------------------------------------- */
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+button, input[type="button"], 
+input[type="reset"], 
+input[type="submit"],
+#subscribe-email:focus,
+#slider ul.slides li .choose-item,
+.tp-caption.flat-button-slider.bg-blue,
+.tp-caption.flat-button-slider.bg-white:hover,
+.header-top .btn-contact a,
+.form-call-back .field-row .one-half input:focus, 
+.form-call-back .comment-text textarea:focus,
+.tp-caption.flat-button-slider.bg-transparent,
+.tp-caption.flat-button-slider.bg-transparent:hover, .tp-caption.flat-button-slider:hover,
+.widget-nav-tab h3, .widget-brochures h3, .widget-map h3,
+.accordion.style2 .accordion-toggle .toggle-title.active,
+.widget-categories ul li a:hover:before, .widget-categories ul li.active a:before,
+.comment-respond form div input:focus, .comment-respond form div textarea:focus,
+.table-pricing.style1 table tbody tr.platinum td a {
+	border-color: #f87b27;
+}
+
+.tab-services .tab-list-services .tab-item .box-tab:before {
+	border-top-color: #f87b27;
+}
+
+/* Background Color
+-------------------------------------------------------------- */
+button, input[type="button"], input[type="reset"], input[type="submit"],
+.btn-menu:before, 
+.btn-menu:after, 
+.btn-menu span,
+.header.style1,
+#header.fixed-header.style1,
+.btn-more a,
+.box-title,
+.widget-search form .input-search button,
+.flat-title.style1 h2:before,
+.portfolio-item .portfolio-image a:before,
+.box-download,
+.widget-about ul.social li a:hover,
+.text-download p:before,
+.tp-caption.flat-button-slider.bg-blue,
+.go-top,
+.go-top:hover,
+.loader:before,
+.loader:after,
+.top-search #searchform-all #searchsubmit,
+.header.style1.v1 .flat-header-wrap,
+.widget-brochures ul.download a:after,
+.about-company a:before,
+article.main-post .entry-content .date,
+.header-top .btn-contact a:hover,
+.progres .progress-item .progres-bar .progress-animate,
+ul.menu-tab.style1.v2 li.btn-active:before,
+ul.menu-tab li.active:before, ul.menu-tab li:hover:before,
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span, .tparrows:hover,
+.owl-carousel-7.owl-theme .owl-dots .owl-dot.active span,
+.tp-caption.flat-button-slider.bg-transparent:hover, .tp-caption.flat-button-slider:hover,
+.flat-partner,
+#banner-slide-3 .tparrows:hover,
+ul.menu-tab li.active:before, ul.menu-tab li:hover:before,
+.tab-services .tab-list-services .tab-item .box-tab:hover, .tab-services .tab-list-services .tab-item.active .box-tab,
+.owl-theme.owl-carousel-1 .owl-controls .owl-nav div.owl-prev:hover, 
+.owl-theme.owl-carousel-1 .owl-controls .owl-nav div.owl-next:hover,
+.portfolio-item.style1 .portfolio-content h5 a:hover:before,
+.top.style1, .widget-nav-tab ul li:before,
+.imagebox.style2 .imagebox-content span,
+.flat-list-year li .year:before,
+.team-item .team-content.hover ul li a:hover,
+.accordion .accordion-toggle .toggle-title.active span,
+.accordion.style1 .accordion-toggle .toggle-title.active:before,
+.accordion.style2 .accordion-toggle .toggle-title.active,
+.owl-theme .owl-controls .owl-nav div,
+.flat-services .show-services span:hover,
+.iconbox.style1:hover span.price, .iconbox.style1:hover span.price:before,
+ul.flat-pagination.style1 li.active a, ul.flat-pagination.style1 li a:hover,
+.carousel-control:hover,
+.case-single-content .top-icon,
+.box-case-single .case-content .direction ul li a,
+.owl-carousel-5.owl-theme .owl-controls .owl-nav div:hover,
+.flat-pagination li a:hover, .flat-pagination li a.active,
+.widget-categories ul li a:after,
+article.main-single .direction ul li a,
+.wrap-error .btn-submit a,
+.table-pricing table thead tr th.platinum:before,
+.table-pricing table tbody tr td:nth-child(4) a,
+.table-pricing.style1 table tbody tr.platinum td a,
+.top.style2 {
+	background-color: #f87b27;
+}
+
+.tp-caption.flat-button-slider.bg-white:hover {
+	background-color: #f87b27 !important;
+	color: #fff;
+}
+
+.iconbox.style3:before {
+	background-color: rgba(248, 123, 39, 0.8);
+}
+
+.imagebox.style3 .imagebox-image:before,
+.imagebox.style1 .imagebox-content,
+.imagebox.style1 .imagebox-image h5 {
+	background-color: rgba(248, 123, 39, 0.9);
+}
+
+.portfolio-item .portfolio-image a:before,
+.go-top {
+	opacity: 0.9;
+}
+
+.imagebox.style4 .imagebox-image:before {
+	background-color: rgba(248, 123, 39, 0.5);
+}
+
+.flat-list-year li .year:after {
+	background-color: rgba(248, 123, 39, 0.2);
+}
