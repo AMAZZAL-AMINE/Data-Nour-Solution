@@ -2068,11 +2068,11 @@ article.main-single .direction ul li a:hover {
 	z-index: 9;
 }
 
-.parallax1 { background-image: url(../images/parallax/01.jpg); background-repeat: no-repeat;}
+.parallax1 { background-image: url(../images/parallax/01.jpg); background-repeat: no-repeat; box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.3);}
 .parallax2 { background-image: url(../images/bg11.jpg);}
 .parallax4 { background-image: url(../images/parallax/04.jpg);}
 .parallax3 { background-image: url(../images/bg9.jpg);}
-.parallax5 { background-image: url(../images/bg5.jpg);}
+.parallax5 { background-image: url(../img/17.jpg);background-repeat: no-repeat; box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.384);}
 .parallax6 { background-image: url(../images/parallax/06.jpg);}
 .parallax7 { background-image: url(../images/parallax/07.jpg);}
 .parallax9 { background-image: url(../images/parallax/09.jpg);}
