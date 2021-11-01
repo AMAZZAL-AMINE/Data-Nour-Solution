@@ -126,7 +126,9 @@ var Stats = function () {
 				prevTime = time;
 				frames = 0;
 
+
 			}
+
 
 			return time;
 
